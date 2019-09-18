@@ -1,0 +1,27 @@
+# Site navigation links
+
+- title: Home
+  url: /index
+  excerpt: 
+  image:
+
+- title: About
+  url: /about
+  excerpt: 
+  image:
+
+- title: dp-mzml
+  url: https://github.com/digitalproteomics/dp-mzml
+  excerpt: 
+  image: xml-tree-640.png
+
+- title: pydp
+  url: https://github.com/digitalproteomics/pydp
+  excerpt: 
+  image: source-code-py-640.jpg
+
+- title: GECCO
+  url: https://github.com/digitalproteomics/gecco
+  excerpt: 
+  image: lizard-640.png
+
