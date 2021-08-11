@@ -3,11 +3,11 @@ layout: archive
 permalink: /
 title: "Open source projects"
 #image:
-#  feature: dp-logo.png
+#  feature: abterra-bio-logo.png
 ---
 
 <div>
-<p><a href="https://www.digitalproteomics.com">Digital Proteomics</a> reimagines antibody discovery and sequencing with advanced informatics. We contribute these libraries and projects to proteomics and immunoinformatics.</p>
+<p><a href="https://www.abterrabio.com">Abterra Biosciences</a> reimagines antibody discovery and sequencing with advanced informatics. We contribute these libraries and projects to proteomics and immunoinformatics.</p>
 </div>
 
 <div class="tiles">
