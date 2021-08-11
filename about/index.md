@@ -3,7 +3,7 @@ layout: article
 title: "About"
 date: 
 modified: 
-excerpt: "Digital Proteomics about page."
+excerpt: "Abterra Biosciences about page."
 image:
   feature:
   teaser:
@@ -12,14 +12,14 @@ share: false
 ads: false
 ---
 
-[Digital Proteomics](https://www.digitalproteomics.com) is reimagining antibody discovery and sequencing with advanced informatics. We currently offer:
+[Abterra Biosciences](https://www.abterrabio.com) is reimagining antibody discovery and sequencing with advanced informatics. We currently offer:
 
-* [Valens](https://www.digitalproteomics.com/valens-de-novo-antibody-sequencing/): Monoclonal antibody proteomic sequencing
+* [Valens](https://abterrabio.com/valens-antibody-protein-sequencing/): Monoclonal antibody proteomic sequencing
 
-* [Alicanto single domain antibody discovery in llama](https://www.digitalproteomics.com/single-domain-antibody-discovery/)
+* [Alicanto single domain antibody discovery in llama](https://www.abterrabio.com/alicanto-single-domain-antibody-discovery/)
 
-* [Alicanto rabbit monoclonal discovery](https://www.digitalproteomics.com/rabbit-monoclonal-antibody-discovery/)
+* [Alicanto rabbit monoclonal discovery](https://www.abterrabio.com/alicanto-rabbit-antibody-discovery/)
 
-* [Reptor](https://www.digitalproteomics.com/reptor-antibody-repertoire-sequencing/): Next-generation sequencing of B cells
+* [Reptor](https://www.abterrabio.com/reptor-antibody-repertoire-sequencing/): Next-generation sequencing of B cells
 
-* [Quorum](https://www.digitalproteomics.com/quorum-cloud/): Molecular networking software
+* [Quorum](https://www.abterrabio.com/quorum-cloud/): Molecular networking software

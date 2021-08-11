@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Digital Proteomics"
-description: "Projects available from Digital Proteomics"
-logo: /images/dp-logo.png  # 120x120 px default image used for Twitter summary card	
-teaser: dp-logo.png # 400x250 px default teaser image used in image archive grid
+title: "Abterra Biosciences"
+description: "Projects available from Abterra Biosciences"
+logo: /images/abterra-bio-logo.png  # 120x120 px default image used for Twitter summary card	
+teaser: abterra-bio-logo.png # 400x250 px default teaser image used in image archive grid
 locale: en
-#url: https://www.digitalproteomics.com
+#url: https://www.abterrabio.com
 feed:
   path: atom.xml
 
